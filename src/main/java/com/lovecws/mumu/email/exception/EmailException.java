@@ -1,4 +1,4 @@
-package com.lovecws.mumu.common.email.exception;
+package com.lovecws.mumu.email.exception;
 
 /**
  * @desc 邮件发送、接收异常

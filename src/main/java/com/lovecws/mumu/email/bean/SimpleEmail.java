@@ -1,4 +1,4 @@
-package com.lovecws.mumu.common.email.bean;
+package com.lovecws.mumu.email.bean;
 
 import java.io.File;
 import java.util.Arrays;

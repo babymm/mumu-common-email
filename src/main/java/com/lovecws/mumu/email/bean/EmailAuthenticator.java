@@ -1,4 +1,4 @@
-package com.lovecws.mumu.common.email.bean;
+package com.lovecws.mumu.email.bean;
 
 import javax.mail.Authenticator;
 import javax.mail.PasswordAuthentication;

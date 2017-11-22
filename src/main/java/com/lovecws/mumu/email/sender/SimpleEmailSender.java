@@ -1,8 +1,8 @@
-package com.lovecws.mumu.common.email.sender;
+package com.lovecws.mumu.email.sender;
 
 
-import com.lovecws.mumu.common.email.bean.EmailAuthenticator;
-import com.lovecws.mumu.common.email.bean.SimpleEmail;
+import com.lovecws.mumu.email.bean.EmailAuthenticator;
+import com.lovecws.mumu.email.bean.SimpleEmail;
 
 import javax.activation.DataHandler;
 import javax.activation.FileDataSource;

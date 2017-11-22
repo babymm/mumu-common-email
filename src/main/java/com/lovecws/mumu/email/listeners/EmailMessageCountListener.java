@@ -1,4 +1,4 @@
-package com.lovecws.mumu.common.email.listeners;
+package com.lovecws.mumu.email.listeners;
 
 import javax.mail.event.MessageCountEvent;
 import javax.mail.event.MessageCountListener;

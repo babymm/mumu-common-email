@@ -1,7 +1,7 @@
-package com.lovecws.mumu.common.email.service;
+package com.lovecws.mumu.email.service;
 
-import com.lovecws.mumu.common.email.bean.SimpleEmail;
-import com.lovecws.mumu.common.email.exception.EmailException;
+import com.lovecws.mumu.email.bean.SimpleEmail;
+import com.lovecws.mumu.email.exception.EmailException;
 
 /**
  * @desc 邮件接收接口

@@ -1,9 +1,9 @@
-package com.lovecws.mumu.common.email.receiver;
+package com.lovecws.mumu.email.receiver;
 
-import com.lovecws.mumu.common.email.bean.EmailAuthenticator;
-import com.lovecws.mumu.common.email.bean.SimpleEmail;
-import com.lovecws.mumu.common.email.listeners.EmailMessageCountListener;
-import com.lovecws.mumu.common.email.utils.AddressUtil;
+import com.lovecws.mumu.email.bean.EmailAuthenticator;
+import com.lovecws.mumu.email.bean.SimpleEmail;
+import com.lovecws.mumu.email.listeners.EmailMessageCountListener;
+import com.lovecws.mumu.email.utils.AddressUtil;
 
 import javax.mail.*;
 import javax.mail.Message.RecipientType;

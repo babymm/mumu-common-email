@@ -1,9 +1,9 @@
-package com.lovecws.mumu.common.email.service;
+package com.lovecws.mumu.email.service;
 
-import com.lovecws.mumu.common.email.bean.SimpleEmail;
-import com.lovecws.mumu.common.email.exception.EmailException;
-import com.lovecws.mumu.common.email.receiver.SimpleEmailReceiver;
-import com.lovecws.mumu.common.email.sender.SimpleEmailSender;
+import com.lovecws.mumu.email.bean.SimpleEmail;
+import com.lovecws.mumu.email.exception.EmailException;
+import com.lovecws.mumu.email.receiver.SimpleEmailReceiver;
+import com.lovecws.mumu.email.sender.SimpleEmailSender;
 import org.apache.log4j.Logger;
 
 import javax.mail.MessagingException;

@@ -1,4 +1,4 @@
-package com.lovecws.mumu.common.email.utils;
+package com.lovecws.mumu.email.utils;
 
 import javax.mail.Address;
 

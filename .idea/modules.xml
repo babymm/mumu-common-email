@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/mumu-common-email.iml" filepath="$PROJECT_DIR$/mumu-common-email.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mumu-email.iml" filepath="$PROJECT_DIR$/mumu-email.iml" />
     </modules>
   </component>
 </project>
